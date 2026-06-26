@@ -1,0 +1,11 @@
+/* DSE Helper styles */
+details {
+    margin-top: 12px;
+    border-left: 3px solid #4a9eff;
+    padding-left: 10px;
+    opacity: 0.85;
+}
+summary {
+    cursor: pointer;
+    font-weight: bold;
+}
