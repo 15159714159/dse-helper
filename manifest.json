@@ -1,0 +1,11 @@
+{
+    "display_name": "DSE English Helper",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "me",
+    "version": "1.0.0",
+    "auto_update": true
+}
